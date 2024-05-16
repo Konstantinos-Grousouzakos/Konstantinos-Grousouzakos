@@ -11,6 +11,7 @@ My current toolkit includes:
   - Utilizing pandas and NumPy for Exploratory Data Analysis (EDA) and Data Preparation
   - Employing scikit-learn and statsmodels for Machine Learning implementations
   - Leveraging Matplotlib and seaborn for Data Visualization
+- SQL(PostgreSQL, Valentina-DB)
 - Proficiency in Microsoft Excel
 
 Please don't hesitate to connect with me to explore potential collaborations or opportunities in the dynamic field of data science.
