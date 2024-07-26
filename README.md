@@ -4,14 +4,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Data Scientist/Analyst. Mechanical/Industrial Engineering Graduate
 -----------------------------------------------------------------
 
-I am a Mechanical/Industrial Engineering Graduate with a strong passion for data science. Over the past few years, I've been driven by a dream to acquire knowledge and refine my skills to become a data professional. It all began with learning Python coding, and from there, I delved into advanced topics in data science like Supervised and Unsupervised Machine Learning. I'm genuinely enthusiastic about this field and eager to contribute my skills, expertise, and unbridled eagerness for learning to a data-driven organization. I welcome discussions about potential opportunities in data analysis, data science, and business analytics. 
+I am a Mechanical/Industrial Engineering Graduate with a strong passion for data science. Over the past few years, I've been driven by a dream to acquire knowledge and refine my skills to become a data professional. It all began with learning Python coding, and from there, I delved into advanced topics in data science like Supervised and Unsupervised Machine Learning. The pinnacle of this journey was the completion of my thesis, a crucial requirement for graduating from the Department of Mechanical Engineering at Aristotle University of Thessaloniki. I'm genuinely enthusiastic about this field and eager to contribute my skills, expertise, and unbridled eagerness for learning to a data-driven organization. I welcome discussions about potential opportunities in data analysis, data science, and business analytics. 
 
 My current toolkit includes: 
 - Python (primarily through Jupyter Notebooks)
   - Utilizing pandas and NumPy for Exploratory Data Analysis (EDA) and Data Preparation
   - Employing scikit-learn and statsmodels for Machine Learning implementations
   - Leveraging Matplotlib and seaborn for Data Visualization
-- SQL(PostgreSQL, Valentina-DB)
+- SQL (PostgreSQL, Valentina-DB)
 - Proficiency in Microsoft Excel
 
 Please don't hesitate to connect with me to explore potential collaborations or opportunities in the dynamic field of data science.
